@@ -45,7 +45,7 @@ HmsAnalyticsKitDemo demonstrates how to use the Analytics SDK for quick games.
 
 3. Download the Analytics SDK and import it to **assets/Lib**.
 
-    1. Import the SDK file, which is named [hmscore-analytics-sdk-quickgame-*xx.xx.xx*.esm.js](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Library/quickapp-sdk-download-0000001090739375). In the **Set as a plug-in** dialog box displayed, select **Yes**.
+    1. Import the SDK file, which is named [hw-hmscore-analytics-sdk-quickgame-*xx.xx.xx*.esm.js](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Library/quickapp-sdk-download-0000001090739375). In the **Set as a plug-in** dialog box displayed, select **Yes**.
 
     2. Import the AppGallery Connect file on which the Analytics SDK depends, which is named [agconnect-quickgame-*xx.xx.xx*-min.js](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Library/agc-auth-quickgame-sdkdownload-0000001182308451). In the **Set as a plug-in** dialog box displayed, select **Yes**.
 
