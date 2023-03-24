@@ -45,7 +45,7 @@ HmsAnalyticsKitDemo提供了华为分析服务（HUAWEI Analytics Kit）与快�
 
 3. 引入sdk。下载并引入sdk，位于“assets/Lib”目录下。
 
-    1. [hmscore-analytics-sdk-quickgame-xx.xx.xx.esm.js](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Library/quickapp-sdk-download-0000001090739375) 为sdk文件，引入并设置为“导入为插件”
+    1. [hw-hmscore-analytics-sdk-quickgame-xx.xx.xx.esm.js](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Library/quickapp-sdk-download-0000001090739375) 为sdk文件，引入并设置为“导入为插件”
 
     2. [agconnect-quickgame-xx.xx.xx-min.js](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Library/agc-auth-quickgame-sdkdownload-0000001182308451) 为sdk依赖的agc文件，引入并设置为“导入为插件”
 
